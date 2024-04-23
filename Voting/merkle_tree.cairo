@@ -1,0 +1,1 @@
+const LOG_N_VOTERS = 10;
